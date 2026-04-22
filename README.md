@@ -2,13 +2,13 @@
 
 ✨ Specjalistyczne rozwiązania informatyczne oparte o autorskie rozwiązania AI.
 
-NEXCORE projektuje i wytwarza specjalistyczne rozwiązania informatyczne wspierające organizacje publiczne i prywatne w stabilnym rozwoju, automatyzacji procesów oraz podejmowaniu decyzji z wykorzystaniem sztucznej inteligencji.
+Nexcore projektuje i wytwarza specjalistyczne rozwiązania informatyczne wspierające organizacje publiczne i prywatne w stabilnym rozwoju, automatyzacji procesów oraz podejmowaniu decyzji z wykorzystaniem sztucznej inteligencji.
 
 Tworzymy systemy, które łączą nowoczesne technologie, bezpieczeństwo, zgodność ze standardami oraz realną wartość biznesową.
 
 --
 
-## O NAS
+## O nas
 
 🧭 W NEXCORE skupiamy się na budowie rozwiązań, które pomagają organizacjom efektywnie wykorzystywać potencjał AI w codziennym działaniu.
 
@@ -21,7 +21,7 @@ Tworzymy systemy, które łączą nowoczesne technologie, bezpieczeństwo, zgodn
 
 --
 
-## OBSZARY KOMPETENCJI
+## Obszary kompetencji
 
 🤖 Systemy dedykowane oparte o sztuczną inteligencję
 Projektujemy i rozwijamy specjalistyczne systemy informatyczne, które wspierają lub automatyzują procesy decyzyjne.
@@ -37,7 +37,7 @@ Tworzymy rozwiązania, które pomagają organizacjom podejmować trafniejsze dec
 
 --
 
-## DLA KODO TWORZYMY
+## Dla kogo tworzymy
 
 🏢 Nasze rozwiązania kierujemy do organizacji działających zarówno w sektorze publicznym, jak i prywatnym, w szczególności tam, gdzie istotne są:
 
@@ -49,7 +49,7 @@ Tworzymy rozwiązania, które pomagają organizacjom podejmować trafniejsze dec
 
 --
 
-## KONTAKT
+## Kontakt
 
 📍 NEXCORE Sp. z o.o.
    ul. Willowa 87
