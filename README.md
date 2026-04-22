@@ -23,17 +23,13 @@ Tworzymy systemy, które łączą nowoczesne technologie, bezpieczeństwo, zgodn
 
 ## Obszary kompetencji
 
-🤖 Systemy dedykowane oparte o sztuczną inteligencję
-Projektujemy i rozwijamy specjalistyczne systemy informatyczne, które wspierają lub automatyzują procesy decyzyjne.
+🤖 Systemy dedykowane oparte o sztuczną inteligencję - projektujemy i rozwijamy specjalistyczne systemy informatyczne, które wspierają lub automatyzują procesy decyzyjne.
 
-🌐 Inteligentne rozwiązania Smart City
-Tworzymy zintegrowane systemy dla transportu publicznego i prywatnego, parkingów, stref Park&Ride oraz rozwiązań opartych o automatyczne rozpoznawanie zdarzeń i pojazdów.
+🌐 Inteligentne rozwiązania Smart City - tworzymy zintegrowane systemy dla transportu publicznego i prywatnego, parkingów, stref Park&Ride oraz rozwiązań opartych o automatyczne rozpoznawanie zdarzeń i pojazdów.
 
-🎥 Systemy CCTV z analityką obrazu
-Budujemy rozwiązania wykorzystujące zaawansowaną analitykę wideo do rozpoznawania, klasyfikacji i wykrywania obiektów oraz zdarzeń z wielu, także niejednorodnych, źródeł obrazu.
+🎥 Systemy CCTV z analityką obrazu - budujemy rozwiązania wykorzystujące zaawansowaną analitykę wideo do rozpoznawania, klasyfikacji i wykrywania obiektów oraz zdarzeń z wielu, także niejednorodnych, źródeł obrazu.
 
-📊 Wspomaganie podejmowania decyzji dzięki AI
-Tworzymy rozwiązania, które pomagają organizacjom podejmować trafniejsze decyzje szybciej, bezpieczniej i na podstawie danych.
+📊 Wspomaganie podejmowania decyzji dzięki AI - tworzymy rozwiązania, które pomagają organizacjom podejmować trafniejsze decyzje szybciej, bezpieczniej i na podstawie danych.
 
 --
 
