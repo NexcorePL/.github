@@ -6,8 +6,6 @@ NEXCORE projektuje i wytwarza specjalistyczne rozwiązania informatyczne wspiera
 
 Tworzymy systemy, które łączą nowoczesne technologie, bezpieczeństwo, zgodność ze standardami oraz realną wartość biznesową.
 
---
-
 ## O NAS
 
 🧭 W NEXCORE skupiamy się na budowie rozwiązań, które pomagają organizacjom efektywnie wykorzystywać potencjał AI w codziennym działaniu.
@@ -18,8 +16,6 @@ Tworzymy systemy, które łączą nowoczesne technologie, bezpieczeństwo, zgodn
 	- stabilność działania
 	- zgodność z obowiązującymi standardami
 	- praktyczne wsparcie procesów decyzyjnych
-
---
 
 ## OBSZARY KOMPETENCJI
 
@@ -35,8 +31,6 @@ Budujemy rozwiązania wykorzystujące zaawansowaną analitykę wideo do rozpozna
 📊 Wspomaganie podejmowania decyzji dzięki AI
 Tworzymy rozwiązania, które pomagają organizacjom podejmować trafniejsze decyzje szybciej, bezpieczniej i na podstawie danych.
 
----
-
 ## DLA KODO TWORZYMY
 
 🏢 Nasze rozwiązania kierujemy do organizacji działających zarówno w sektorze publicznym, jak i prywatnym, w szczególności tam, gdzie istotne są:
@@ -46,8 +40,6 @@ Tworzymy rozwiązania, które pomagają organizacjom podejmować trafniejsze dec
 - integracja wielu źródeł informacji
 - wysoka dostępność i bezpieczeństwo systemów
 - rozwój nowoczesnych usług cyfrowych
-
----
 
 ## KONTAKT
 
