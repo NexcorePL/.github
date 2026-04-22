@@ -6,6 +6,7 @@ NEXCORE projektuje i wytwarza specjalistyczne rozwiązania informatyczne wspiera
 
 Tworzymy systemy, które łączą nowoczesne technologie, bezpieczeństwo, zgodność ze standardami oraz realną wartość biznesową.
 
+--
 
 ## O NAS
 
@@ -18,6 +19,7 @@ Tworzymy systemy, które łączą nowoczesne technologie, bezpieczeństwo, zgodn
   - zgodność z obowiązującymi standardami
   - praktyczne wsparcie procesów decyzyjnych
 
+--
 
 ## OBSZARY KOMPETENCJI
 
@@ -33,6 +35,7 @@ Budujemy rozwiązania wykorzystujące zaawansowaną analitykę wideo do rozpozna
 📊 Wspomaganie podejmowania decyzji dzięki AI
 Tworzymy rozwiązania, które pomagają organizacjom podejmować trafniejsze decyzje szybciej, bezpieczniej i na podstawie danych.
 
+--
 
 ## DLA KODO TWORZYMY
 
@@ -44,11 +47,12 @@ Tworzymy rozwiązania, które pomagają organizacjom podejmować trafniejsze dec
 - wysoka dostępność i bezpieczeństwo systemów
 - rozwój nowoczesnych usług cyfrowych
 
+--
 
 ## KONTAKT
 
-📍 NEXCORE Sp. z o.o. 
-   ul. Willowa 87  
+📍 NEXCORE Sp. z o.o.
+   ul. Willowa 87
    32-085 Modlniczka  
 
 📞 Telefon: +48 537 709 922  
